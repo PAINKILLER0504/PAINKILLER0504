@@ -1,4 +1,4 @@
-<p align="center">##欢迎来到我的主页 👋</p>
+## <p align="center">欢迎来到我的主页 👋</p>
 
 $$
 \large\textsf{欢迎来到我的主页 👋}
