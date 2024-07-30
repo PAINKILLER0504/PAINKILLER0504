@@ -1,8 +1,5 @@
 ## <p align="center">欢迎来到我的主页 👋</p>
 
-$$
-\large\textsf{欢迎来到我的主页 👋}
-$$
 <!--
 **PAINKILLER0504/PAINKILLER0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`前端开发` `平面设计`
+`<p align="center">前端开发</p>` `<p align="center">平面设计</p>``平面设计`
 
 ---
 
