@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`<p align="center">前端开发</p>` `<p align="center">平面设计</p>``平面设计`
+`<p align="center">前端开发</p>` 
+<p align="center">`平面设计`</p>
 
 ---
 
