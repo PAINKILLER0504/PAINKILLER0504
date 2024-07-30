@@ -1,4 +1,4 @@
-<img title="欢迎你" src="./welcome.png" alt="alt 图片" data-align="center">
+<img title="欢迎你" src="./welcomee.png" alt="alt 图片" data-align="center">
 
  <p align="center">-------to my profile 👋-------</p>
 
