@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 `<p align="center">前端开发</p>` 
-<p align="center">`平面设计`</p>
+<p align="center"> `平面设计` </p>
 
 ---
 
