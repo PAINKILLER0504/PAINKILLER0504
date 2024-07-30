@@ -1,6 +1,6 @@
 <img title="欢迎你" src="./welcome.png" alt="alt 图片" data-align="center">
 
- <p align="center">to my profile 👋</p>
+ <p align="center">-------to my profile 👋-------</p>
 
 <!--
 **PAINKILLER0504/PAINKILLER0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
