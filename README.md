@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`前端开发` `平面设计` `PPT` `三维建模`
+`前端开发` `平面设计` `PPT` `三维建模``dijital media`
 
  ### 邮箱
 > [dengrui0504@163.com](mailto:dengrui0504@163.com)
