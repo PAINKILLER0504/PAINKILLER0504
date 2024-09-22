@@ -1,4 +1,4 @@
-<img title="财源滚滚，数钱用称" src="./welcomee.png" alt="alt 图片" data-align="center">
+<img title="财源滚滚，数钱用称" src="./welcomee.png" alt="welcome" data-align="center">
 
  <p align="center">-------to my profile 👋-------</p>
 
