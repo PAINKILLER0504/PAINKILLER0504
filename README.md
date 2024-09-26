@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 > <a href="https://helendeng.site/" target="_blank">helendeng.site</a>
 
 ---
-> vite+react+motionframer响应式动画网页
+> vite+react+Framer Motion响应式动画网页
 >> <a href="https://painkiller0504.github.io/HenryLau/" target="_blank">-刘宪华的个人介绍</a>
 
 > css-蒙德里安时钟
