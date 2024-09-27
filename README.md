@@ -1,4 +1,4 @@
-<img title="财源滚滚，数钱用称" src="./welcomee.png" alt="welcome" data-align="center">
+<img title="祝您发财！" src="./welcomee.png" alt="welcome" data-align="center">
 
  <p align="center">-------to my profile 👋-------</p>
 
