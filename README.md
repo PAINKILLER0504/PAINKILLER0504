@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 > vite+react+Framer Motion响应式动画网页
 >> <a href="https://painkiller0504.github.io/HenryLau/" target="_blank">-刘宪华的个人介绍</a>
 
+> vite+react+Appwrite留言板
+>> <a href="https://painkiller0504.github.io//NotesBoard/" target="_blank">留言板</a>
+
 > css-蒙德里安时钟
 >> <a href="https://painkiller0504.github.io/Mondrian-style-clock/" target="_blank">Mondrian-stlye-clock</a>
 
