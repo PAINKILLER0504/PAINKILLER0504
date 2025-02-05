@@ -1,4 +1,4 @@
-<img title="祝您发财！" src="./welcomee.png" alt="welcome" data-align="center">
+<img title="祝您发财！wish you rich！" src="./welcomee.png" alt="welcome" data-align="center">
 
  <p align="center">-------to my profile 👋-------</p>
 
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 > <a href="https://helendeng.site/" target="_blank">helendeng.site</a>
 
 ---
+### 一些小项目
 > vite+react+Framer Motion响应式动画网页
 >> <a href="https://painkiller0504.github.io/HenryLau/" target="_blank">-刘宪华的个人介绍</a>
 
